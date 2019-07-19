@@ -1,3 +1,8 @@
 # collab-fun
 Demonstration of github collaboration
-team members - Danh Vuong
+Team Members - Vincent Djie
+Danh Vuong
+========
+
+
+
